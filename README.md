@@ -6,7 +6,7 @@ Compiler
 Files:
 	samples/*.vype14 	- .vype14 source codes
 	samples/C.g4 		- C11 grammar
-	vype 				- python script
+	vype 			- python script
 	VYPe2014.g4 		- VYPe14 grammar (based on C.g4)
 	Makefile
 
